@@ -1,0 +1,17 @@
+[
+  {
+    "id": "tc1",
+    "input": "Explain what machine learning is in simple terms.",
+    "reference": "Machine learning is a branch of AI where computers learn patterns from data to make predictions or decisions without being explicitly programmed for every case."
+  },
+  {
+    "id": "tc2",
+    "input": "What is the difference between HTTP and HTTPS?",
+    "reference": "HTTP transfers web data without encryption, while HTTPS uses TLS encryption to protect data in transit and authenticate the server."
+  },
+  {
+    "id": "tc3",
+    "input": "Explain normalization in databases.",
+    "reference": "Database normalization organizes data into related tables to reduce redundancy and improve data integrity."
+  }
+]

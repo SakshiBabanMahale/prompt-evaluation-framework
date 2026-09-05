@@ -1,0 +1,17 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic Prompt",
+    "template": "Answer the following question accurately and clearly:\n\n{input}"
+  },
+  {
+    "id": "detailed",
+    "name": "Detailed Prompt",
+    "template": "You are a helpful expert. Answer the user's question accurately. Explain the key points clearly and include a concise example when useful.\n\nQuestion: {input}"
+  },
+  {
+    "id": "structured",
+    "name": "Structured Prompt",
+    "template": "Answer the following question using this structure:\n1. Direct answer\n2. Key points\n3. Example\n4. Short conclusion\nBe accurate and avoid unsupported claims.\n\nQuestion: {input}"
+  }
+]
